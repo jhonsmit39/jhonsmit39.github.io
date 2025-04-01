@@ -103,4 +103,4 @@ theme: landscape
 deploy:
   type: ''
   repo: https://github.com/jhonsmit39/jhonsmit39.github.io.git
-  branch: main
+  branch: master
