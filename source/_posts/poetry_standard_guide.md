@@ -1,3 +1,15 @@
+---
+   title: Python Poetry 包管理标准接入方案
+   date: 2026-02-06
+   categories:
+     - Python开发
+     - 工具教程
+   tags:
+     - Poetry
+     - 依赖管理
+     - Python工程化
+---
+
 # Python Poetry 包管理标准接入方案
 
 ## 1. 目标
